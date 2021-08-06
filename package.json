@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@rollup/plugin-node-resolve": "^13.0.4",
-    "markerjs-live": "^1.0.0-alpha.1"
+    "markerjs-live": "^1.0.0-alpha.3"
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.1.1",

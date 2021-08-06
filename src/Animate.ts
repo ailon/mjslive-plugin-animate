@@ -82,7 +82,7 @@ export class Animate implements IMarkerViewPlugin {
     markerView.markers.forEach((marker, index) => {
       setTimeout(
         () =>
-          marker.container.classList.add(
+          marker.outerContainer.classList.add(
             `${this.markerView.styles.classNamePrefix}${this.FADEIN_SUFFIX}`
           ),
         index * 250

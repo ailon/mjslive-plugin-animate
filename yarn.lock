@@ -1405,10 +1405,10 @@ marked@^1.2.9:
   resolved "https://registry.yarnpkg.com/marked/-/marked-1.2.9.tgz#53786f8b05d4c01a2a5a76b7d1ec9943d29d72dc"
   integrity sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw==
 
-markerjs-live@^1.0.0-alpha.1:
-  version "1.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/markerjs-live/-/markerjs-live-1.0.0-alpha.1.tgz#78a7d7a55bdbb201399e13c3f2dd3630adeff1f9"
-  integrity sha512-tcwehduKy1EmD62xGfRgQhwG/OOyPP9oVUEJuP+zt7euGefj+EiqHlFgIF3m/8CM0De1UntM77xy9Oyehz0TJQ==
+markerjs-live@^1.0.0-alpha.3:
+  version "1.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/markerjs-live/-/markerjs-live-1.0.0-alpha.3.tgz#5a13feb393cf15869a128dac1b4ba623b7bba44d"
+  integrity sha512-jerWEHPP9BLPjFtzLNs0pUERCzZ1riqUk0DETY+lvWp2VeXkIWnWNd/INDBQ5HhbBr74INzm5+pQ1An5TiFffA==
 
 media-typer@0.3.0:
   version "0.3.0"
