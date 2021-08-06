@@ -74,8 +74,6 @@ export class Animate implements IMarkerViewPlugin {
     );
 
     this.markerView.addEventListener('load', this.markersLoaded);
-
-    console.log('animate initialized');
   }
 
   private markersLoaded: MarkerViewEventHandler = (markerView) => {
