@@ -1,6 +1,6 @@
 {
   "name": "mjslive-plugin-animate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Animation plugin for marker.js Live",
   "main": "mjslive-plugin-animate.js",
   "module": "mjslive-plugin-animate.esm.js",
